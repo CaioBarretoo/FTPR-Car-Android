@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1026381342104",
+    "project_id": "ftpr-car-android",
+    "storage_bucket": "ftpr-car-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026381342104:android:ccee4b332f74a10c1c37ed",
+        "android_client_info": {
+          "package_name": "com.example.myapitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026381342104-ah8tqu01qn6aba2ppmtrl8ktbqmcrfag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapitest",
+            "certificate_hash": "2d446ebd05254ecb5b6012eeb4ee4826d3cd487b"
+          }
+        },
+        {
+          "client_id": "1026381342104-f7vie55u5koaq4ljijvkon931d8cqp59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2NCyLNmtHbFMJIbz0iLEzILS2OWeEvIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026381342104-f7vie55u5koaq4ljijvkon931d8cqp59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

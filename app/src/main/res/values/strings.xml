@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">MyApiTest - COLOQUE O SEU NOME AQUI</string>
+    <string name="app_name">CARs</string>
+    <string name="success_delete">Carro deletado com sucesso</string>
+    <string name="error_delete">Erro ao deletar o item</string>
+    <string name="error_validate_form">Por favor, preencha o campo: %1$s</string>
+    <string name="error_validate_location">Por favor, selecione uma localização no mapa</string>
+    <string name="error_validate_take_picture">Por favor, tire uma foto</string>
+    <string name="success_create">Carro adicionado com sucesso!</string>
+    <string name="error_create">Erro ao adicionar o carro</string>
+    <string name="success_update">Carro atualizado com sucesso</string>
+    <string name="unknown_error">Erro desconhecido, tente novamente!</string>
+    <string name="denied_permission">Permissão não concedida</string>
+    <string name="hint_cellphone">+55 11 912345678</string>
+    <string name="code_brazil">+55</string>
+    <string name="send_sms">Enviar SMS</string>
+    <string name="hint_verify_sms">123456</string>
+    <string name="verify_sms">Verificar SMS</string>
+    <string name="logout">Logout</string>
+    <string name="entry_with_google">Entrar com Google</string>
 </resources>
